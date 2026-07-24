@@ -1,0 +1,14 @@
+C:\Users\ebuka\OneDrive\Desktop\Lab1\bin\Debug\net8.0\Lab1.exe
+C:\Users\ebuka\OneDrive\Desktop\Lab1\bin\Debug\net8.0\Lab1.deps.json
+C:\Users\ebuka\OneDrive\Desktop\Lab1\bin\Debug\net8.0\Lab1.runtimeconfig.json
+C:\Users\ebuka\OneDrive\Desktop\Lab1\bin\Debug\net8.0\Lab1.dll
+C:\Users\ebuka\OneDrive\Desktop\Lab1\bin\Debug\net8.0\Lab1.pdb
+C:\Users\ebuka\OneDrive\Desktop\Lab1\obj\Debug\net8.0\Lab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ebuka\OneDrive\Desktop\Lab1\obj\Debug\net8.0\Lab1.AssemblyInfoInputs.cache
+C:\Users\ebuka\OneDrive\Desktop\Lab1\obj\Debug\net8.0\Lab1.AssemblyInfo.cs
+C:\Users\ebuka\OneDrive\Desktop\Lab1\obj\Debug\net8.0\Lab1.csproj.CoreCompileInputs.cache
+C:\Users\ebuka\OneDrive\Desktop\Lab1\obj\Debug\net8.0\Lab1.dll
+C:\Users\ebuka\OneDrive\Desktop\Lab1\obj\Debug\net8.0\refint\Lab1.dll
+C:\Users\ebuka\OneDrive\Desktop\Lab1\obj\Debug\net8.0\Lab1.pdb
+C:\Users\ebuka\OneDrive\Desktop\Lab1\obj\Debug\net8.0\Lab1.genruntimeconfig.cache
+C:\Users\ebuka\OneDrive\Desktop\Lab1\obj\Debug\net8.0\ref\Lab1.dll
