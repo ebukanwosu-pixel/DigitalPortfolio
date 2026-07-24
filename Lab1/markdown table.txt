@@ -1,0 +1,10 @@
+| Test Number |      Input     |                Expected Output                |  Actual Output  | Pass/Fail |
+|:-----------:|:--------------:|:---------------------------------------------:|:---------------:|:---------:|
+| 1           | "0", "50"      | "The total charge for the car hire is £10"    | £10             |           |
+| 2           | "1", "50"      | "The total charge for the car hire is £35"    | £35             |           |
+| 3           | "0", "49"      | "The total charge for the car hire is £12.5"  | £12.5           |           |
+| 4           | "1", "30"      | "The total charge for the car hire is £85"    | £85             |           |
+| 5           | "3", "50"      | "The total charge for the car hire is £85"    | £85             |           |
+| 6           | "2", "15"      | "The total charge for the car hire is £147.5" | £147.5          |           |
+| 7           | "5", "20"      | "The total charge for the car hire is £210"   | £210            |           |
+| 8           | "cheeseburger" | Program crashes - unhandled exception         | program crashes |           |
