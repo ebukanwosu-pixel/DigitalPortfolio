@@ -1,0 +1,25 @@
+| Test Number | Digital Portfolio Mark | Open Book Programming Exam Mark | Capstone Project Mark | Expected Output                                           |
+|-------------|------------------------|---------------------------------|-----------------------|-----------------------------------------------------------|
+| 1           | -1                     |                                 |                       | -1 is not a valid mark for the digital portfolio          |
+| 2           | 31                     |                                 |                       | 31 is not a valid mark for the digital portfolio          |
+| 3           | 25.5                   |                                 |                       | program crashes                                           |
+| 4           | 30                     | -1                              |                       | -1 is not a valid mark for the open book programming exam |
+| 5           | 30                     | 21                              |                       | 21 is not a valid mark for the open book programming exam |
+| 6           | 30                     | 5.5                             |                       | program crashes                                           |
+| 7           | 30                     | 20                              | -1                    | -1 is not a valid mark for the capstone project           |
+| 8           | 30                     | 20                              | 101                   | 101 is not a valid mark for the capstone project          |
+| 9           | 30                     | 20                              | 65.5                  | program crashes                                           |
+| 10          | 30                     | 20                              | 100                   | 100% - 1st                                                |
+| 11          | 21                     | 14                              | 70                    | 70% - 1st                                                 |
+| 12          | 21                     | 14                              | 69                    | 69.75% - 2:1                                              |
+| 13          | 18                     | 12                              | 60                    | 60% - 2:1                                                 |
+| 14          | 18                     | 12                              | 59                    | 59.75% - 2:2                                              |
+| 15          | 15                     | 10                              | 50                    | 50% - 2:2                                                 |
+| 16          | 15                     | 10                              | 49                    | 49.75% - 3rd                                              |
+| 17          | 12                     | 8                               | 40                    | 40% - 3rd                                                 |
+| 18          | 12                     | 8                               | 39                    | 34% - fail                                                |
+| 19          | 10                     | 7                               | 40                    | 34% - fail                                                |
+| 20          | 11                     | 20                              | 100                   | 68.33% - 2:1                                              |
+| 21          | 30                     | 7                               | 100                   | 34% - fail                                                |
+| 22          | 12                     | 8                               | 15                    | 33.75% - fail                                             |
+| 23          | 0                      | 0                               | 0                     | 0% - fail                                                 |
