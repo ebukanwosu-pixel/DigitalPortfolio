@@ -1,0 +1,14 @@
+C:\Users\ebuka\OneDrive\Desktop\lab5\lab5\bin\Debug\net10.0\lab5.exe
+C:\Users\ebuka\OneDrive\Desktop\lab5\lab5\bin\Debug\net10.0\lab5.deps.json
+C:\Users\ebuka\OneDrive\Desktop\lab5\lab5\bin\Debug\net10.0\lab5.runtimeconfig.json
+C:\Users\ebuka\OneDrive\Desktop\lab5\lab5\bin\Debug\net10.0\lab5.dll
+C:\Users\ebuka\OneDrive\Desktop\lab5\lab5\bin\Debug\net10.0\lab5.pdb
+C:\Users\ebuka\OneDrive\Desktop\lab5\lab5\obj\Debug\net10.0\lab5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ebuka\OneDrive\Desktop\lab5\lab5\obj\Debug\net10.0\lab5.AssemblyInfoInputs.cache
+C:\Users\ebuka\OneDrive\Desktop\lab5\lab5\obj\Debug\net10.0\lab5.AssemblyInfo.cs
+C:\Users\ebuka\OneDrive\Desktop\lab5\lab5\obj\Debug\net10.0\lab5.csproj.CoreCompileInputs.cache
+C:\Users\ebuka\OneDrive\Desktop\lab5\lab5\obj\Debug\net10.0\lab5.dll
+C:\Users\ebuka\OneDrive\Desktop\lab5\lab5\obj\Debug\net10.0\refint\lab5.dll
+C:\Users\ebuka\OneDrive\Desktop\lab5\lab5\obj\Debug\net10.0\lab5.pdb
+C:\Users\ebuka\OneDrive\Desktop\lab5\lab5\obj\Debug\net10.0\lab5.genruntimeconfig.cache
+C:\Users\ebuka\OneDrive\Desktop\lab5\lab5\obj\Debug\net10.0\ref\lab5.dll
